@@ -1,4 +1,4 @@
-장고 프로젝트에 추가할 3개 파일:
+# 장고 프로젝트에 추가할 3개 파일:
   1. animal_model.pt (3.7MB) - 훈련된 모델
   2. django_integration.py (8.6KB) - 장고 호환 래퍼
   3. requirements.txt - 패키지 의존성
